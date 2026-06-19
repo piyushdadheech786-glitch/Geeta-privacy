@@ -1,0 +1,19 @@
+# Privacy Policy — Gita Saarthi: Daily Gyan
+
+**Effective date:** June 19, 2026  
+**Package:** `com.rudrshivansh.gitasaarthi`
+
+Gita Saarthi saves profile details, bookmarks and notes, reading progress, quiz results, and app preferences in app-specific storage on the user's device. The developer does not receive this locally stored information through an app server.
+
+The current version does not include advertising SDKs, third-party analytics SDKs, or a developer-operated account or database service. The developer does not sell or rent personal information.
+
+Android sharing sends content to another app only after the user chooses that app. Audio uses the text-to-speech engine installed on the device, which handles text under its provider's settings and privacy policy.
+
+The release app does not request location, camera, microphone, contacts, photos, or files. Information remains on the device until edited or reset, app storage is cleared, or the app is uninstalled. The app does not create an online account.
+
+## Contact
+
+Developer: Rudrshivansh  
+Support email: **REPLACE_WITH_PLAY_CONSOLE_SUPPORT_EMAIL**
+
+The complete bilingual policy is available in `docs/index.html`.
